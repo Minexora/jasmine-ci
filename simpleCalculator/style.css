@@ -1,0 +1,38 @@
+ body{
+    background: #455A65;
+ }
+
+ .title{
+    text-align: center;
+    text-transform: uppercase;
+    color: #818f95;
+    font-size: 52px;
+ }
+
+ .input, .result_container{
+    width: 100%;
+    font-size: 48px;
+    text-align: center;
+    background: #818f95;
+    border: 1px solid  #ffffff;
+    color:#455A65;
+    padding: 2px;
+ }
+
+ .result_container{
+     margin: 50px auto 0;
+     width: 50%;
+ }
+
+ .result_container .title{
+     color: #000000;
+     font-size: 18px;
+     text-align: center;
+
+ }
+
+ .version{
+    color: #ffffff;
+    margin-top: 10px;
+    text-align: center;
+ }
